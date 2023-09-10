@@ -1,7 +1,5 @@
 Author: Jose Falconi
-Login: cs8bwaaw
 Date: 3/6/19
-Sources of Help: tutors, piazza, notes
 
 
 #Program Description
